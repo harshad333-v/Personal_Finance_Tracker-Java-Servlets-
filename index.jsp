@@ -37,9 +37,10 @@
     <meta charset="UTF-8">
 
     <style>
+
         body {
             font-family: Arial;
-            background: #f0f2f5;
+            background: #F5E9D8;
         }
 
         .container {
@@ -53,7 +54,7 @@
 
         h1 {
             text-align: center;
-            color: #6c63ff;
+            color: #3E2C23;
         }
 
         .balance {
@@ -93,7 +94,7 @@
         }
 
         button {
-            background: #6c63ff;
+            background: #2FA4D7;
             color: white;
             border: none;
             padding: 10px;
@@ -103,7 +104,7 @@
         }
 
         button:hover {
-            background: #574fd6;
+            background: #E76F2E;
         }
 
         .top-buttons {
@@ -152,7 +153,7 @@
 
 <div class="container">
 
-    <h1>Expense Tracker</h1>
+    <h1>Personal Finance Tracker</h1>
 
     <!-- Navigation -->
     <div class="top-buttons">

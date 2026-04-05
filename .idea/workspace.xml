@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faf71f49-de4c-49b2-983c-62fce4fad189" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/lib/mysql-connector-j-9.6.0.jar.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addTransaction.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deleteTransaction.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/edit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filter.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/updateTransaction.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +17,6 @@
       <entry key="_C:/Program Files/Apache Software Foundation/Tomcat 9.0/webapps/Personal_Finance_Tracker" value="3Bu3XhKM5QiyaLQw9InRjwy68H8" />
     </persistenceIdMap>
   </component>
-  <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="6" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -40,12 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/harshad333-v/Personal_Finance_Tracker-Java-Servlets-.git",
-    "accountId": "da20e53e-6013-45d4-893b-a05028f62fa6"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;harshad333-v&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/harshad333-v/Personal_Finance_Tracker-Java-Servlets-.git&quot;,
+    &quot;accountId&quot;: &quot;da20e53e-6013-45d4-893b-a05028f62fa6&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -64,6 +57,7 @@
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
@@ -85,6 +79,19 @@
       <recent name="C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\Personal_Finance_Tracker" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Personal_Finance_Tracker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Personal_Finance_Tracker" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -100,7 +107,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775325168934</updated>
-      <workItem from="1775325170177" duration="8336000" />
+      <workItem from="1775325170177" duration="8921000" />
+      <workItem from="1775381540052" duration="2096000" />
     </task>
     <servers />
   </component>

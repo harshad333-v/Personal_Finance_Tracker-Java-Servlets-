@@ -9,7 +9,7 @@
     <style>
         body {
             font-family: Arial;
-            background: #f0f2f5;
+            background: #F5E9D8;
         }
 
         .container {
@@ -23,7 +23,7 @@
 
         h2 {
             text-align: center;
-            color: #6c63ff;
+            color: #3E2C23;
         }
 
         /* FILTER FORM */
@@ -36,7 +36,7 @@
         }
 
         button {
-            background: #6c63ff;
+            background: #2FA4D7;
             color: white;
             border: none;
             padding: 10px;
@@ -229,18 +229,18 @@
         int balance = totalIncome - totalExpense;
     %>
 
-    <!-- SUMMARY (BALANCE SHEET STYLE) -->
-    <div class="summary">
-        <div class="card income">
-            Income <br> &#8377;<%= totalIncome %>
-        </div>
-        <div class="card expense">
-            Expense <br> &#8377;<%= totalExpense %>
-        </div>
-        <div class="card balance">
-            Balance <br> &#8377;<%= balance %>
-        </div>
-    </div>
+<%--    <!-- SUMMARY (BALANCE SHEET STYLE) -->--%>
+<%--    <div class="summary">--%>
+<%--&lt;%&ndash;        <div class="card income">&ndash;%&gt;--%>
+<%--&lt;%&ndash;            Income <br> &#8377;<%= totalIncome %>&ndash;%&gt;--%>
+<%--&lt;%&ndash;        </div>&ndash;%&gt;--%>
+<%--        <div class="card expense">--%>
+<%--            Expense <br> &#8377;<%= totalExpense %>--%>
+<%--        </div>--%>
+<%--        <div class="card balance">--%>
+<%--            Balance <br> &#8377;<%= balance %>--%>
+<%--        </div>--%>
+<%--    </div>--%>
 
     <a href="index.jsp">
         <button style="margin-top:15px;">Back to Dashboard</button>

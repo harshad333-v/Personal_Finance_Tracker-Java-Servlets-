@@ -44,7 +44,7 @@
     <style>
         body {
             font-family: Arial;
-            background: #f0f2f5;
+            background: #F5E9D8;
         }
 
         .container {
@@ -58,7 +58,7 @@
 
         h2 {
             text-align: center;
-            color: #6c63ff;
+            color: #3E2C23;
         }
 
         .card {
@@ -108,7 +108,7 @@
             margin-top: 15px;
             padding: 10px;
             width: 100%;
-            background: #6c63ff;
+            background: #2FA4D7;
             color: white;
             border: none;
             border-radius: 5px;

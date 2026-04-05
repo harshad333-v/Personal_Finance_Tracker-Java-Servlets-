@@ -25,7 +25,7 @@
     <style>
         body {
             font-family: Arial;
-            background: #f0f2f5;
+            background: #F5E9D8;
         }
 
         .container {
@@ -39,7 +39,7 @@
 
         h2 {
             text-align: center;
-            color: #6c63ff;
+            color: #3E2C23;
         }
 
         input, select {
@@ -60,7 +60,7 @@
         }
 
         .update-btn {
-            background: #6c63ff;
+            background: #2FA4D7;
         }
 
         .delete-btn {
@@ -69,7 +69,7 @@
         }
 
         .back-btn {
-            background: #999;
+            background: #2FA4D7;
             margin-top: 10px;
         }
     </style>
